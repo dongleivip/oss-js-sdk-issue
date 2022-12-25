@@ -13,7 +13,7 @@ npm install ali-oss --save
 npm install buffer --save
 ```
 
-在调用[put()](https://github.com/ali-sdk/ali-oss#putname-file-options)操作时报错
+使用 STS 方式去的 Token， 在前端调用[put()](https://github.com/ali-sdk/ali-oss#putname-file-options)操作时报错
 
 ```
 WAServiceMainContext.js?t=wechat&s=1671961212831&v=2.29.0:1 TypeError: global2.XMLHttpRequest is not a constructor
